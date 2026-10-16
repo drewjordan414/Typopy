@@ -24,16 +24,16 @@ resolves — not who owns it). For real "registered + has MX" intel, use
 
 | Technique | What it does | `goonlab.xyz` → |
 |---|---|---|
-| omission | drop one character | `goolab.xyz` |
-| repetition | double a character | `goonllab.xyz` |
-| transposition | swap two adjacent characters | `gonolab.xyz` |
-| replacement | adjacent QWERTY key | `goinlab.xyz` |
-| homoglyph | lookalike character | `g0onlab.xyz` |
-| insertion | add a char / hyphen | `gooonlab.xyz`, `goon-lab.xyz` |
-| bitsquat | single-bit flip (memory errors) | `goonmab.xyz` |
-| plural | add / drop a trailing `s` | `goonlabs.xyz` |
-| tld_swap | same name, different TLD | `goonlab.com` |
-| combosquat | prepend/append a keyword | `goonlab-login.xyz` |
+| omission | drop one character | `google.xyz` |
+| repetition | double a character | `google.xyz` |
+| transposition | swap two adjacent characters | `google.xyz` |
+| replacement | adjacent QWERTY key | `google.xyz` |
+| homoglyph | lookalike character | `google.xyz` |
+| insertion | add a char / hyphen | `google.xyz`, `goo-gle.xyz` |
+| bitsquat | single-bit flip (memory errors) | `google.xyz` |
+| plural | add / drop a trailing `s` | `google.xyz` |
+| tld_swap | same name, different TLD | `google.com` |
+| combosquat | prepend/append a keyword | `google-login.xyz` |
 
 The input domain itself is always excluded from the output.
 
