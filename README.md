@@ -22,7 +22,7 @@ resolves — not who owns it). For real "registered + has MX" intel, use
 
 ## Techniques
 
-| Technique | What it does | `goonlab.xyz` → |
+| Technique | What it does | `google.xyz` → |
 |---|---|---|
 | omission | drop one character | `google.xyz` |
 | repetition | double a character | `google.xyz` |
